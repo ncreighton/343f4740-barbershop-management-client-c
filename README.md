@@ -1,2 +1,28 @@
-# 343f4740-barbershop-management-client-c
-Tired of losing walk-ins to forgotten names and messy paper logs? This Barbershop Management Client CRM and Pipeline Tracker Notion Template turns your chaotic clipboard into a friction-free booking engine that captures every lead and retention opportunity.  Stop juggling sticky notes and spreadsheets. This all-in-one dashboard centralizes client i
+# Barbershop Management Client CRM and Pipeline Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJe00j5iT8Is5tueM4d0k04)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe00j5iT8Is5tueM4d0k04)
+
